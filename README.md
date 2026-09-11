@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/271533298?v=4" width="120" style="border-radius:50%;" alt="Jaser Halabi"/>
 
 # Jaser Halabi
 
