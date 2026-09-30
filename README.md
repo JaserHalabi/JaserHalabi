@@ -42,11 +42,11 @@ Building real-world networking skills through practical lab environments - from 
 ## Projects
 
 ### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
-> Hands-on packet capture analysis, protocol inspection, and display filtering using Wireshark.
+> Hands-on packet capture analysis, protocol inspection, and traffic filtering using Wireshark and tcpdump.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-Network--Analysis-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/Network-Analysis)
 
-**Focus Areas:** Wireshark Packet Capture | Display Filters & Logic Operators | Protocol Inspection (TCP, UDP, HTTP, Ethernet)
+**Focus Areas:** Wireshark & tcpdump CLI | Berkeley Packet Filters (BPF) | Protocol Inspection (TCP, UDP, HTTP, ARP, DNS)
 
 ---
 
