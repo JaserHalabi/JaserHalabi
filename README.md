@@ -1,4 +1,3 @@
-
 # Jaser Halabi
 
 **Cybersecurity & Network Engineering**
@@ -14,7 +13,7 @@
 ## About Me
 
 Network and Cybersecurity engineering student focused on enterprise infrastructure, hands-on Cisco IOS lab work, routing protocol deployment, and network security hardening.
-Building real-world networking skills through practical lab environments — from device configuration and topology design to full end-to-end protocol verification.
+Building real-world networking skills through practical lab environments - from device configuration and topology design to full end-to-end protocol verification.
 
 ---
 
@@ -42,12 +41,21 @@ Building real-world networking skills through practical lab environments — fro
 
 ## Projects
 
+### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
+> Hands-on packet capture analysis, protocol inspection, and display filtering using Wireshark.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-Network--Analysis-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/Network-Analysis)
+
+**Focus Areas:** Wireshark Packet Capture | Display Filters & Logic Operators | Protocol Inspection (TCP, UDP, HTTP, Ethernet)
+
+---
+
 ### [Cisco Networking Engineering Labs](https://github.com/JaserHalabi/networking-labs)
 > Hands-on enterprise networking labs with verified topologies, Cisco IOS configurations, and protocol testing.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
 
-**Completed Labs:** Static WAN Routing · EIGRP · RIP v2 · IPv6 Dual-Stack · Switch Hardening · OSI Protocol Analysis
+**Completed Labs:** Static WAN Routing | EIGRP | RIP v2 | IPv6 Dual-Stack | Switch Hardening | OSI Protocol Analysis
 
 ---
 
