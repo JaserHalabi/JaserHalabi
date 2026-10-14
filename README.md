@@ -69,6 +69,14 @@ Building real-world networking skills through practical lab environments — fro
 
 ---
 
+### [SOC Homelab — Wazuh SIEM & Detection Engineering](https://github.com/JaserHalabi/soc-homelab-wazuh)
+> Hands-on Security Operations Center (SOC) homelab analyzing adversary simulation, MITRE ATT&CK detection testing, and SIEM detection engineering in Wazuh.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-soc--homelab--wazuh-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/soc-homelab-wazuh)
+
+**Focus Areas:** SIEM / XDR Deployment (Wazuh) | MITRE ATT&CK Mapping (T1046) | Adversary Simulation (Kali) | Detection Gap Analysis
+
+---
 ### [simple-log-analyzer](https://github.com/JaserHalabi/simple-log-analyzer)
 > Lightweight log analysis and threat detection script built in Python (developed with AI assistance for test design and rule structuring).
 
