@@ -36,11 +36,20 @@ Building real-world networking skills through practical lab environments - from 
 ![Packet Tracer](https://img.shields.io/badge/Simulator-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Analysis-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/OS-Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ## Projects
 
+### [Sentinel — Log Threat Analyzer](https://github.com/JaserHalabi/sentinel-log-analyzer)
+> Fast, zero-dependency log analysis & threat detection engine in Python for web and system logs (SQLi, XSS, Path Traversal, Command Injection, SSH Brute Force).
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-sentinel--log--analyzer-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/sentinel-log-analyzer)
+
+**Features:** Multi-Layer Evasion Decoding | Real-Time Signature Engine | Automated Forensic JSON Reports | 100% Python Standard Library
+
+---
 ### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
 > Hands-on packet capture analysis, protocol inspection, and traffic filtering using Wireshark and tcpdump.
 
@@ -55,7 +64,7 @@ Building real-world networking skills through practical lab environments - from 
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
 
-**Completed Labs: OSPF Single-Area · Multi-Router Dynamic RIP · Static WAN Routing · EIGRP · RIP v2 · IPv6 Dual-Stack · Switch Hardening · OSI Protocol Analysis
+****Completed Labs:** OSPF Single-Area · Multi-Router Dynamic RIP · Static WAN Routing · EIGRP · RIP v2 · IPv6 Dual-Stack · Switch Hardening · OSI Protocol Analysis
 
 ---
 
