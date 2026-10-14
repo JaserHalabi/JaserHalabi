@@ -1,3 +1,5 @@
+<div align="center">
+
 # Jaser Halabi
 
 **Cybersecurity & Network Engineering**
@@ -13,7 +15,7 @@
 ## About Me
 
 Network and Cybersecurity engineering student focused on enterprise infrastructure, hands-on Cisco IOS lab work, routing protocol deployment, and network security hardening.
-Building real-world networking skills through practical lab environments - from device configuration and topology design to full end-to-end protocol verification.
+Building real-world networking skills through practical lab environments — from device configuration and topology design to full end-to-end protocol verification.
 
 ---
 
@@ -42,14 +44,6 @@ Building real-world networking skills through practical lab environments - from 
 
 ## Projects
 
-### [Sentinel — Log Threat Analyzer](https://github.com/JaserHalabi/sentinel-log-analyzer)
-> Fast, zero-dependency log analysis & threat detection engine in Python for web and system logs (SQLi, XSS, Path Traversal, Command Injection, SSH Brute Force).
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-sentinel--log--analyzer-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/sentinel-log-analyzer)
-
-**Features:** Multi-Layer Evasion Decoding | Real-Time Signature Engine | Automated Forensic JSON Reports | 100% Python Standard Library
-
----
 ### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
 > Hands-on packet capture analysis, protocol inspection, and traffic filtering using Wireshark and tcpdump.
 
@@ -64,7 +58,7 @@ Building real-world networking skills through practical lab environments - from 
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
 
-****Completed Labs:** OSPF Single-Area · Multi-Router Dynamic RIP · Static WAN Routing · EIGRP · RIP v2 · IPv6 Dual-Stack · Switch Hardening · OSI Protocol Analysis
+**Completed Labs:** OSPF Single-Area · Multi-Router Dynamic RIP · Static WAN Routing · EIGRP · RIP v2 · IPv6 Dual-Stack · Switch Hardening · OSI Protocol Analysis
 
 ---
 
@@ -72,6 +66,15 @@ Building real-world networking skills through practical lab environments - from 
 > Enterprise Windows Server infrastructure configurations and administration labs.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-windows--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/windows-server-labs)
+
+---
+
+### [simple-log-analyzer](https://github.com/JaserHalabi/simple-log-analyzer)
+> Lightweight log analysis and threat detection script built in Python (developed with AI assistance for test design and rule structuring).
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-simple--log--analyzer-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/simple-log-analyzer)
+
+**Features:** Attack Signature Detection | Web & Auth Log Analysis | Forensic JSON Reporting | Built with AI Assistance
 
 ---
 
