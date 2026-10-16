@@ -15,7 +15,7 @@
 ## About Me
 
 Network and Cybersecurity engineering student focused on enterprise infrastructure, hands-on Cisco IOS lab work, routing protocol deployment, and network security hardening.
-Building real-world networking skills through practical lab environments — from device configuration and topology design to full end-to-end protocol verification.
+Building real-world networking skills through practical lab environments - from device configuration and topology design to full end-to-end protocol verification.
 
 ---
 
@@ -44,6 +44,33 @@ Building real-world networking skills through practical lab environments — fro
 
 ## Projects
 
+### [SOC Homelab - Wazuh SIEM & Detection Engineering](https://github.com/JaserHalabi/soc-homelab-wazuh)
+> Hands-on Security Operations Center (SOC) homelab analyzing adversary simulation, MITRE ATT&CK detection testing, and SIEM detection engineering in Wazuh.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-soc--homelab--wazuh-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/soc-homelab-wazuh)
+
+**Focus Areas:** SIEM / XDR Deployment (Wazuh) | MITRE ATT&CK Mapping (T1046, T1110) | Adversary Simulation (Kali) | Detection Gap Analysis & Hardening
+
+---
+
+### [Cisco Networking Engineering Labs](https://github.com/JaserHalabi/networking-labs)
+> Hands-on enterprise networking labs with verified topologies, Cisco IOS configurations, and protocol testing.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
+
+**Completed Labs:** OSPF Multi-Access & DR/BDR | OSPF Single-Area | Multi-Router Dynamic RIP | Static WAN Routing | EIGRP | RIP v2 | IPv6 Dual-Stack | Switch Hardening | OSI Protocol Analysis
+
+---
+
+### [Windows Server 2019 Enterprise Infrastructure & Hardening](https://github.com/JaserHalabi/windows-server-labs)
+> Enterprise Windows Server 2019 deployment, directory service architecture, and security hardening across Active Directory (AD DS), DNS, DHCP, departmental Group Policy (GPO), and File Server Resource Manager (FSRM).
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-windows--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/windows-server-labs)
+
+**Infrastructure & Roles Used:** Windows Server 2019 | Active Directory Domain Services (AD DS) | DNS & DHCP Configuration | Departmental Group Policy (GPO) Hardening | Centralized Folder Redirection | File Server Resource Manager (FSRM Quotas & Active File Screening)
+
+---
+
 ### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
 > Hands-on packet capture analysis, protocol inspection, and traffic filtering using Wireshark and tcpdump.
 
@@ -53,30 +80,6 @@ Building real-world networking skills through practical lab environments — fro
 
 ---
 
-### [Cisco Networking Engineering Labs](https://github.com/JaserHalabi/networking-labs)
-> Hands-on enterprise networking labs with verified topologies, Cisco IOS configurations, and protocol testing.
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
-
-**Completed Labs:** OSPF Multi-Access & DR/BDR · OSPF Single-Area · Multi-Router Dynamic RIP · Static WAN Routing · EIGRP · RIP v2 · IPv6 Dual-Stack · Switch Hardening · OSI Protocol Analysis
-
----
-
-### [Windows Server Labs](https://github.com/JaserHalabi/windows-server-labs)
-> Enterprise Windows Server infrastructure configurations and administration labs.
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-windows--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/windows-server-labs)
-
----
-
-### [SOC Homelab — Wazuh SIEM & Detection Engineering](https://github.com/JaserHalabi/soc-homelab-wazuh)
-> Hands-on Security Operations Center (SOC) homelab analyzing adversary simulation, MITRE ATT&CK detection testing, and SIEM detection engineering in Wazuh.
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-soc--homelab--wazuh-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/soc-homelab-wazuh)
-
-**Focus Areas:** SIEM / XDR Deployment (Wazuh) | MITRE ATT&CK Mapping (T1046, T1110) | Adversary Simulation (Kali) | Detection Gap Analysis
-
----
 ### [simple-log-analyzer](https://github.com/JaserHalabi/simple-log-analyzer)
 > Lightweight log analysis and threat detection script built in Python (developed with AI assistance for test design and rule structuring).
 
