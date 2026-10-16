@@ -62,6 +62,15 @@ Building real-world networking skills through practical lab environments - from 
 
 ---
 
+### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
+> Hands-on packet capture analysis, protocol inspection, and traffic filtering using Wireshark and tcpdump.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-Network--Analysis-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/Network-Analysis)
+
+**Focus Areas:** Wireshark & tcpdump CLI | Berkeley Packet Filters (BPF) | Protocol Inspection (TCP, UDP, HTTP, ARP, DNS)
+
+---
+
 ### [Windows Server 2019 Enterprise Infrastructure & Hardening](https://github.com/JaserHalabi/windows-server-labs)
 > Enterprise Windows Server 2019 deployment, directory service architecture, and security hardening across Active Directory (AD DS), DNS, DHCP, departmental Group Policy (GPO), and File Server Resource Manager (FSRM).
 
@@ -86,15 +95,6 @@ Building real-world networking skills through practical lab environments - from 
 [![View Repo](https://img.shields.io/badge/View%20Repository-hydra--brute--force--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/hydra-brute-force-lab)
 
 **Focus Areas:** Online Password Guessing (T1110.001) | THC-Hydra & rockyou.txt | HTTP POST Form Auditing | Rate Limiting & Account Lockouts | Cryptographic Salted Hashing & MFA
-
----
-
-### [Network Analysis & Packet Inspection](https://github.com/JaserHalabi/Network-Analysis)
-> Hands-on packet capture analysis, protocol inspection, and traffic filtering using Wireshark and tcpdump.
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-Network--Analysis-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/Network-Analysis)
-
-**Focus Areas:** Wireshark & tcpdump CLI | Berkeley Packet Filters (BPF) | Protocol Inspection (TCP, UDP, HTTP, ARP, DNS)
 
 ---
 
