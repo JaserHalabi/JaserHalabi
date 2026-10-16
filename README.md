@@ -53,24 +53,6 @@ Building real-world networking skills through practical lab environments - from 
 
 ---
 
-### [Layer 2 Authentication Bypass & MAC Spoofing Lab](https://github.com/JaserHalabi/layer2-mac-spoofing-lab)
-> Hands-on offensive and defensive cybersecurity lab demonstrating hardware MAC spoofing attacks using Macchanger, bypassing Layer 2 ACLs, and analyzing enterprise switch mitigations (802.1X, DAI, Port Security).
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-layer2--mac--spoofing--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/layer2-mac-spoofing-lab)
-
-**Focus Areas:** Layer 2 Attacks & MAC Spoofing | Macchanger & Kali Linux | Python Flask ACL Service | IEEE 802.1X & Port Security (Sticky MAC) | Dynamic ARP Inspection (DAI)
-
----
-
-### [Web Application Brute-Force & Dictionary Attack Lab](https://github.com/JaserHalabi/hydra-brute-force-lab)
-> Hands-on penetration testing lab demonstrating online password guessing and dictionary attacks using THC-Hydra and rockyou.txt against an HTTP authentication endpoint, with enterprise mitigation analysis.
-
-[![View Repo](https://img.shields.io/badge/View%20Repository-hydra--brute--force--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/hydra-brute-force-lab)
-
-**Focus Areas:** Online Password Guessing (T1110.001) | THC-Hydra & rockyou.txt | HTTP POST Form Auditing | Rate Limiting & Account Lockouts | Cryptographic Salted Hashing & MFA
-
----
-
 ### [Cisco Networking Engineering Labs](https://github.com/JaserHalabi/networking-labs)
 > Hands-on enterprise networking labs with verified topologies, Cisco IOS configurations, and protocol testing.
 
@@ -86,6 +68,24 @@ Building real-world networking skills through practical lab environments - from 
 [![View Repo](https://img.shields.io/badge/View%20Repository-windows--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/windows-server-labs)
 
 **Infrastructure & Roles Used:** Windows Server 2019 | Active Directory Domain Services (AD DS) | DNS & DHCP Configuration | Departmental Group Policy (GPO) Hardening | Centralized Folder Redirection | File Server Resource Manager (FSRM Quotas & Active File Screening)
+
+---
+
+### [Layer 2 Authentication Bypass & MAC Spoofing Lab](https://github.com/JaserHalabi/layer2-mac-spoofing-lab)
+> Hands-on offensive and defensive cybersecurity lab demonstrating hardware MAC spoofing attacks using Macchanger, bypassing Layer 2 ACLs, and analyzing enterprise switch mitigations (802.1X, DAI, Port Security).
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-layer2--mac--spoofing--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/layer2-mac-spoofing-lab)
+
+**Focus Areas:** Layer 2 Attacks & MAC Spoofing | Macchanger & Kali Linux | Python Flask ACL Service | IEEE 802.1X & Port Security (Sticky MAC) | Dynamic ARP Inspection (DAI)
+
+---
+
+### [Web Application Brute-Force & Dictionary Attack Lab](https://github.com/JaserHalabi/hydra-brute-force-lab)
+> Hands-on penetration testing lab demonstrating online password guessing and dictionary attacks using THC-Hydra and rockyou.txt against an HTTP authentication endpoint, with enterprise mitigation analysis.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-hydra--brute--force--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/hydra-brute-force-lab)
+
+**Focus Areas:** Online Password Guessing (T1110.001) | THC-Hydra & rockyou.txt | HTTP POST Form Auditing | Rate Limiting & Account Lockouts | Cryptographic Salted Hashing & MFA
 
 ---
 
