@@ -62,6 +62,15 @@ Building real-world networking skills through practical lab environments - from 
 
 ---
 
+### [Web Application Brute-Force & Dictionary Attack Lab](https://github.com/JaserHalabi/hydra-brute-force-lab)
+> Hands-on penetration testing lab demonstrating online password guessing and dictionary attacks using THC-Hydra and rockyou.txt against an HTTP authentication endpoint, with enterprise mitigation analysis.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-hydra--brute--force--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/hydra-brute-force-lab)
+
+**Focus Areas:** Online Password Guessing (T1110.001) | THC-Hydra & rockyou.txt | HTTP POST Form Auditing | Rate Limiting & Account Lockouts | Cryptographic Salted Hashing & MFA
+
+---
+
 ### [Cisco Networking Engineering Labs](https://github.com/JaserHalabi/networking-labs)
 > Hands-on enterprise networking labs with verified topologies, Cisco IOS configurations, and protocol testing.
 
