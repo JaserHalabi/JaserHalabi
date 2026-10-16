@@ -53,6 +53,15 @@ Building real-world networking skills through practical lab environments - from 
 
 ---
 
+### [Layer 2 Authentication Bypass & MAC Spoofing Lab](https://github.com/JaserHalabi/layer2-mac-spoofing-lab)
+> Hands-on offensive and defensive cybersecurity lab demonstrating hardware MAC spoofing attacks using Macchanger, bypassing Layer 2 ACLs, and analyzing enterprise switch mitigations (802.1X, DAI, Port Security).
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-layer2--mac--spoofing--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/layer2-mac-spoofing-lab)
+
+**Focus Areas:** Layer 2 Attacks & MAC Spoofing | Macchanger & Kali Linux | Python Flask ACL Service | IEEE 802.1X & Port Security (Sticky MAC) | Dynamic ARP Inspection (DAI)
+
+---
+
 ### [Cisco Networking Engineering Labs](https://github.com/JaserHalabi/networking-labs)
 > Hands-on enterprise networking labs with verified topologies, Cisco IOS configurations, and protocol testing.
 
