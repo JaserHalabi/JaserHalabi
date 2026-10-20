@@ -38,6 +38,7 @@ Building real-world networking skills through practical lab environments - from 
 ![Packet Tracer](https://img.shields.io/badge/Simulator-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Analysis-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/OS-Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/OS-Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
@@ -77,6 +78,15 @@ Building real-world networking skills through practical lab environments - from 
 [![View Repo](https://img.shields.io/badge/View%20Repository-windows--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/windows-server-labs)
 
 **Infrastructure & Roles Used:** Windows Server 2019 | Active Directory Domain Services (AD DS) | DNS & DHCP Configuration | Departmental Group Policy (GPO) Hardening | Centralized Folder Redirection | File Server Resource Manager (FSRM Quotas & Active File Screening)
+
+---
+
+### [Ubuntu Server Administration & Secure SSH Access](https://github.com/JaserHalabi/ubuntu-server-labs)
+> Hands-on Ubuntu Server systems administration: user provisioning, OpenSSH daemon management, network interface discovery, and secure ED25519 key-based remote authentication.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-ubuntu--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/ubuntu-server-labs)
+
+**Focus Areas:** Ubuntu Server | User Provisioning (`adduser`) | OpenSSH Daemon Management (`systemctl`) | Network Interface Discovery (`ip addr`) | ED25519 Cryptographic Key Authentication (`ssh-keygen`, `ssh-copy-id`) | Authentication Auditing
 
 ---
 
