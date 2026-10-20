@@ -59,7 +59,7 @@ Building real-world networking skills through practical lab environments - from 
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
 
-**Completed Labs:** OSPF Multi-Access & DR/BDR | OSPF Single-Area | Multi-Router Dynamic RIP | Static WAN Routing | EIGRP | RIP v2 | IPv6 Dual-Stack | Switch Hardening | OSI Protocol Analysis
+**Completed Labs:** Multi-Router EIGRP Dual-Path | OSPF Multi-Access & DR/BDR | OSPF Single-Area | Multi-Router Dynamic RIP | Static WAN Routing | EIGRP | RIP v2 | IPv6 Dual-Stack | Switch Hardening | OSI Protocol Analysis
 
 ---
 
