@@ -59,7 +59,7 @@ Building real-world networking skills through practical lab environments - from 
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-networking--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/networking-labs)
 
-**Completed Labs:** Multi-Router EIGRP Dual-Path | OSPF Multi-Access & DR/BDR | OSPF Single-Area | Multi-Router Dynamic RIP | Static WAN Routing | EIGRP | RIP v2 | IPv6 Dual-Stack | Switch Hardening | OSI Protocol Analysis
+**Completed Labs:** OSPF Multi-Access & DR/BDR | OSPF Single-Area | Multi-Router Dynamic RIP | Static WAN Routing | EIGRP | RIP v2 | IPv6 Dual-Stack | Switch Hardening | OSI Protocol Analysis
 
 ---
 
@@ -81,12 +81,12 @@ Building real-world networking skills through practical lab environments - from 
 
 ---
 
-### [Ubuntu Server Administration & Secure SSH Access](https://github.com/JaserHalabi/ubuntu-server-labs)
-> Hands-on Ubuntu Server systems administration: user provisioning, OpenSSH daemon management, network interface discovery, and secure ED25519 key-based remote authentication.
+### [Ubuntu Server Infrastructure, DNS, DHCP & Administration](https://github.com/JaserHalabi/ubuntu-server-labs)
+> Hands-on enterprise Ubuntu Server administration: departmental role-based access control (RBAC), deterministic Netplan static networking, authoritative BIND9 forward/reverse DNS, ISC DHCP automated client provisioning, and ED25519 key-based SSH remote access.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-ubuntu--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/ubuntu-server-labs)
 
-**Focus Areas:** Ubuntu Server | User Provisioning (`adduser`) | OpenSSH Daemon Management (`systemctl`) | Network Interface Discovery (`ip addr`) | ED25519 Cryptographic Key Authentication (`ssh-keygen`, `ssh-copy-id`) | Authentication Auditing
+**Focus Areas:** Ubuntu Server | BIND9 Authoritative DNS (`cyber.local`) | ISC DHCP Server & Dynamic Client Leases | Netplan Static IPv4 Networking | Departmental Access Control & File Permissions | ED25519 Cryptographic SSH Keys
 
 ---
 
