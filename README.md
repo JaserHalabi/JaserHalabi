@@ -14,8 +14,8 @@
 
 ## About Me
 
-Network and Cybersecurity engineering student focused on enterprise infrastructure, hands-on Cisco IOS lab work, routing protocol deployment, and network security hardening.
-Building real-world networking skills through practical lab environments - from device configuration and topology design to full end-to-end protocol verification.
+Network and Cybersecurity engineering student working across enterprise infrastructure, offensive and defensive security, and digital forensics.
+I build my skills through hands-on labs: designing and routing Cisco networks, deploying and hardening Windows and Ubuntu servers, detecting attacks in a Wazuh SOC homelab, testing attacks with Kali Linux, and investigating digital evidence to recover hidden and leaked data. Every lab is documented from setup to verification.
 
 ---
 
