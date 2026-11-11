@@ -32,6 +32,7 @@ Building real-world networking skills through practical lab environments - from 
 
 ![ACLs](https://img.shields.io/badge/Security-ACLs%20%7C%20Device%20Hardening-DC143C?style=flat-square)
 ![Firewall](https://img.shields.io/badge/Firewall-Cisco%20ASA-DC143C?style=flat-square&logo=cisco&logoColor=white)
+![Forensics](https://img.shields.io/badge/Forensics-Steganography%20%7C%20File%20Carving%20%7C%20Password%20Recovery-DC143C?style=flat-square)
 
 **Tools & Platforms**
 
@@ -87,6 +88,15 @@ Building real-world networking skills through practical lab environments - from 
 [![View Repo](https://img.shields.io/badge/View%20Repository-ubuntu--server--labs-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/ubuntu-server-labs)
 
 **Focus Areas:** Ubuntu Server | BIND9 Authoritative DNS (`cyber.local`) | ISC DHCP Server & Dynamic Client Leases | Netplan Static IPv4 Networking | Departmental Access Control & File Permissions | ED25519 Cryptographic SSH Keys
+
+---
+
+### [Digital Forensics Lab](https://github.com/JaserHalabi/digital-forensics-lab)
+> Hands-on digital forensics investigations on Kali Linux: evidence metadata analysis, file carving, password-protected archive cracking, image forensics, steganographic payload recovery, and hash-based evidence integrity verification.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-digital--forensics--lab-181717?style=for-the-badge&logo=github)](https://github.com/JaserHalabi/digital-forensics-lab)
+
+**Completed Investigations:** Steganography & Data Leak Investigation (ExifTool | Binwalk | zip2john & John the Ripper | Forensically | Steghide | SHA-256 Verification | MITRE ATT&CK T1027.003)
 
 ---
 
